@@ -1,4 +1,4 @@
-# 📊 Análise e Inserção de Dados Totvs
+# 📊 Análise Exploratória de Dados Totvs
 
 Este projeto visa realizar o tratamento e análise de dados com informações de clientes e histórico de propostas da TOTVS.
 
