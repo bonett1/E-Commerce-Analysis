@@ -91,5 +91,6 @@ No final do processo, os DataFrames tratados (`df_clientes_varejo_att`, `df_hist
 [LinkedIn Gabriel Zaki](https://www.linkedin.com/in/gabrielzaki/) - Assistende de Negócios da SuperSim<br>
 [LinkedIn Rafael da Guia](https://www.linkedin.com/in/rafadaguia/) - Cientista de Dados da Minsait<br>
 [LinkedIn Arthur Colombo](https://www.linkedin.com/in/arthurcolombomello/) - Analista de Business Intelligence da Soul Trade Marketing<br>
-[LinkedIn Júlio César](https://www.linkedin.com/in/julio-cesar-data/) - Estudante de Ciência de Dados<br>
+[LinkedIn Júlio César](https://www.linkedin.com/in/julio-cesar-data/) - Estudante de Ciência de Dados
+
 *Todos os autores são alunos do curso de Ciência de Dados da FIAP*
