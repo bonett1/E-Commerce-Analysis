@@ -83,6 +83,16 @@ No final do processo, os DataFrames tratados (`df_clientes_varejo_att`, `df_hist
    jupyter notebook
    ```
 
+## 📋 Visualização Inicial no Power BI
+![dash Totvs](https://github.com/user-attachments/assets/e2e6328f-64d9-4d99-86d4-a64fc0f027af)
+
+## ⭐ Insights Obtidos
+
+- Posição Atual: Empresa bem consolidada com forte presença em soluções empresariais.
+- Modelo de Negócio: Transição exitosa para SaaS/Cloud.
+- Perspectivas: Crescimento sustentado com oportunidades claras de expansão.
+- Valor Médio: R$ 26.000 por contrato ativo demonstra tickets robustos.
+
 ---
 
 ## 📌 Autores
